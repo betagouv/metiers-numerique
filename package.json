@@ -39,7 +39,7 @@
     "seed": "node -r dotenv/config prisma/seeds/index.js"
   },
   "dependencies": {
-    "@apollo/client": "3.5.10",
+    "@apollo/client": "3.7.9",
     "@ckeditor/ckeditor5-build-classic": "^34.2.0",
     "@ckeditor/ckeditor5-markdown-gfm": "^34.2.0",
     "@ckeditor/ckeditor5-react": "^5.0.2",
